@@ -1,0 +1,1 @@
+We are starting this lesson without any code.
