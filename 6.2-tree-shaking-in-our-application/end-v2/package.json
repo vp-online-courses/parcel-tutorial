@@ -1,0 +1,32 @@
+{
+  "name": "parcel-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "parcel src/index.html --open",
+    "build": "parcel build src/index.html --public-url ./"
+  },
+  "author": "Viktor",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/plugin-proposal-pipeline-operator": "^7.3.2",
+    "@fortawesome/fontawesome-svg-core": "^1.2.19",
+    "@fortawesome/free-brands-svg-icons": "^5.9.0",
+    "@fortawesome/free-regular-svg-icons": "^5.9.0",
+    "@fortawesome/free-solid-svg-icons": "^5.9.0",
+    "@parcel/transformer-sass": "2.0.0-beta.2",
+    "autoprefixer": "^9.6.0",
+    "less": "^3.9.0",
+    "parcel": "^2.0.0-beta.2",
+    "parcel-plugin-clean-dist": "0.0.6",
+    "postcss": "^8.2.9",
+    "sass": "^1.21.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1",
+    "lodash-es": "^4.17.21",
+    "popper.js": "^1.15.0"
+  }
+}
