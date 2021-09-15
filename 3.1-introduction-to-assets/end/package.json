@@ -8,6 +8,6 @@
   "author": "Viktor",
   "license": "ISC",
   "devDependencies": {
-    "parcel-bundler": "^1.12.3"
+    "parcel": "^2.0.0-rc.0"
   }
 }
